@@ -7,7 +7,7 @@ function upperCaseCustomerName() {
 }
 
 function changeLeastFavoriteCustomer(){
-  leastFavoriteCustomer = 'Samir';
+  leastFavoriteCustomer = 'Tom';
 }
 
 
@@ -20,10 +20,10 @@ function overWriteBestCustomer(newFavorite){
 }
 
 function congratulateCustomer(){
-  return `congrats ${favoriteCustomer}'
+  return `congrats ${favoriteCustomer}`;
 }
 
 function attemptTwoFavoriteCustomers(){
-    let favoriteCustomer = 'bar'
-    let favoriteCustomer = 'not bar'
+    let favoriteCustomer = 'bar';
+    let favoriteCustomer = 'not bar'; 
 }
